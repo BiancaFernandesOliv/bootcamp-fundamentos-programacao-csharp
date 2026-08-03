@@ -1,5 +1,10 @@
-﻿Console.Write("Digit um número inteiro: ");
-int numero = int.Parse(Console.ReadLine());
+﻿Console.Write("Digite um número inteiro: ");
+var numeroDigitado = Console.ReadLine();
+
+if (!int.TryParse(numeroDigitado, out int numero)) {
+    Console.WriteLine("Valor informado é inválido.");
+    return;
+}
 
 int antecessor = numero - 1;
 int sucessor = numero + 1;

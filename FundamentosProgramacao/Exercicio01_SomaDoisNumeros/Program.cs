@@ -1,8 +1,18 @@
 ﻿Console.Write("Digite o primeiro número: ");
-int primeiroNumero = int.Parse(Console.ReadLine());
+var primeiroDigitado = Console.ReadLine();
+
+if (!int.TryParse(primeiroDigitado, out int primeiroNumero)) {
+    Console.WriteLine("Valor informado é inválido.");
+    return;
+}
 
 Console.Write("Digite o segundo número: ");
-int segundoNumero = int.Parse(Console.ReadLine());
+var segundoDigitado = Console.ReadLine();
+
+if (!int.TryParse(segundoDigitado, out int segundoNumero)) {
+    Console.WriteLine("Valor informado é inválido.");
+    return;
+}
 
 int soma = primeiroNumero + segundoNumero;
 

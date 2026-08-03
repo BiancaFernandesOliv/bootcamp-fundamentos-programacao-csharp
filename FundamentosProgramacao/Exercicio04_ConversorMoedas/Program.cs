@@ -3,15 +3,15 @@ Console.Write("Digite um valor em reais: ");
 var realDigitado = Console.ReadLine();
 
 if (!decimal.TryParse(realDigitado, out decimal valorReal)) {
-    Console.WriteLine("Valor inválido!");
+    Console.WriteLine("Valor informado é inválido.");
     return;
 }
 
 Console.Write("Digite cotação do dólar: ");
-var cotacaoDigitado = Console.ReadLine();
+var cotacaoDigitada = Console.ReadLine();
 
-if (!decimal.TryParse(cotacaoDigitado, out decimal cotacaoDolar)) {
-    Console.WriteLine("Valor inválido!");
+if (!decimal.TryParse(cotacaoDigitada, out decimal cotacaoDolar)) {
+    Console.WriteLine("Valor informado é inválido.");
     return;
 }
 
