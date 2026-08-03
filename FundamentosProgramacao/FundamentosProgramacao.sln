@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio04_ConversorMoedas", "Exercicio04_ConversorMoedas\Exercicio04_ConversorMoedas.csproj", "{E4E295D0-2E48-432F-A709-88CC749D5480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{4E762FA3-E53B-47EE-B0C9-24FEFA9B191A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E762FA3-E53B-47EE-B0C9-24FEFA9B191A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E762FA3-E53B-47EE-B0C9-24FEFA9B191A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E295D0-2E48-432F-A709-88CC749D5480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E295D0-2E48-432F-A709-88CC749D5480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E295D0-2E48-432F-A709-88CC749D5480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E295D0-2E48-432F-A709-88CC749D5480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
