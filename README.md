@@ -13,9 +13,9 @@ Cada exercício está organizado em um projeto Console independente, facilitando
 
 ## Exercícios
 
-- [ ] Exercício 01 - Soma de dois números
-- [ ] Exercício 02 - Antecessor e sucessor
-- [ ] Exercício 03 - Área de um retângulo
+- [x] Exercício 01 - Soma de dois números
+- [x] Exercício 02 - Antecessor e sucessor
+- [x] Exercício 03 - Área de um retângulo
 - [ ] Exercício 04 - Conversor de moedas
 - [ ] Exercício 05 - Calculadora simples
 - [ ] Exercício 06 - Contagem crescente
