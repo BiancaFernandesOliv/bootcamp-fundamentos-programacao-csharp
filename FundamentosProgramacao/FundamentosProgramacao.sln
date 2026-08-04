@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio08_Tabuada", "Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio09_SomaNumerosPares", "Exercicio09_SomaNumerosPares\Exercicio09_SomaNumerosPares.csproj", "{AA37D48D-946E-427A-BA6E-42E7E01D5BEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio10_LoginSimples", "Exercicio10_LoginSimples\Exercicio10_LoginSimples.csproj", "{B0B24ADD-16AD-4961-BCBF-6E049AADFD36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,10 @@ Global
 		{AA37D48D-946E-427A-BA6E-42E7E01D5BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA37D48D-946E-427A-BA6E-42E7E01D5BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA37D48D-946E-427A-BA6E-42E7E01D5BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B24ADD-16AD-4961-BCBF-6E049AADFD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B24ADD-16AD-4961-BCBF-6E049AADFD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B24ADD-16AD-4961-BCBF-6E049AADFD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B24ADD-16AD-4961-BCBF-6E049AADFD36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
