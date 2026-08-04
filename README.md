@@ -20,7 +20,7 @@ Cada exercício está organizado em um projeto Console independente, facilitando
 - [x] Exercício 05 - Calculadora simples
 - [x] Exercício 06 - Contagem crescente
 - [x] Exercício 07 - Contagem regressiva
-- [ ] Exercício 08 - Tabuada
+- [x] Exercício 08 - Tabuada
 - [ ] Exercício 09 - Soma dos números pares
 - [ ] Exercício 10 - Login simples
 - [ ] Exercício 11 - Soma até digitar zero

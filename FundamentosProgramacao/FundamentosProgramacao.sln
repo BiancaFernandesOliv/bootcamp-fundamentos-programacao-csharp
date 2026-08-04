@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio06_ContagemCrescen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio07_ContagemRegressiva", "Exercicio07_ContagemRegressiva\Exercicio07_ContagemRegressiva.csproj", "{35596BD7-D435-4828-BC65-DF19087CF45C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio08_Tabuada", "Exercicio08_Tabuada\Exercicio08_Tabuada.csproj", "{B5158381-2BB8-43BC-B514-111804EC8F79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{35596BD7-D435-4828-BC65-DF19087CF45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35596BD7-D435-4828-BC65-DF19087CF45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35596BD7-D435-4828-BC65-DF19087CF45C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5158381-2BB8-43BC-B514-111804EC8F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5158381-2BB8-43BC-B514-111804EC8F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5158381-2BB8-43BC-B514-111804EC8F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5158381-2BB8-43BC-B514-111804EC8F79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
