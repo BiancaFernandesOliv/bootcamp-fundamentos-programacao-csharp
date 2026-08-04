@@ -23,7 +23,7 @@ Cada exercício está organizado em um projeto Console independente, facilitando
 - [x] Exercício 08 - Tabuada
 - [x] Exercício 09 - Soma dos números pares
 - [x] Exercício 10 - Login simples
-- [ ] Exercício 11 - Soma até digitar zero
+- [x] Exercício 11 - Soma até digitar zero
 - [ ] Exercício 12 - Contador de caracteres
 - [ ] Exercício 13 - Verificador de senha
 - [ ] Exercício 14 - Maior elemento
