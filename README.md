@@ -19,7 +19,7 @@ Cada exercício está organizado em um projeto Console independente, facilitando
 - [x] Exercício 04 - Conversor de moedas
 - [x] Exercício 05 - Calculadora simples
 - [x] Exercício 06 - Contagem crescente
-- [ ] Exercício 07 - Contagem regressiva
+- [x] Exercício 07 - Contagem regressiva
 - [ ] Exercício 08 - Tabuada
 - [ ] Exercício 09 - Soma dos números pares
 - [ ] Exercício 10 - Login simples

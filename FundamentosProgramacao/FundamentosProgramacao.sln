@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio05_CalculadoraSimp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio06_ContagemCrescente", "Exercicio06_ContagemCrescente\Exercicio06_ContagemCrescente.csproj", "{78A016C8-3AC7-42E6-A5F3-544427CCCBA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio07_ContagemRegressiva", "Exercicio07_ContagemRegressiva\Exercicio07_ContagemRegressiva.csproj", "{35596BD7-D435-4828-BC65-DF19087CF45C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{78A016C8-3AC7-42E6-A5F3-544427CCCBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78A016C8-3AC7-42E6-A5F3-544427CCCBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78A016C8-3AC7-42E6-A5F3-544427CCCBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35596BD7-D435-4828-BC65-DF19087CF45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35596BD7-D435-4828-BC65-DF19087CF45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35596BD7-D435-4828-BC65-DF19087CF45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35596BD7-D435-4828-BC65-DF19087CF45C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
