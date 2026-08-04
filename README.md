@@ -25,7 +25,7 @@ Cada exercício está organizado em um projeto Console independente, facilitando
 - [x] Exercício 10 - Login simples
 - [x] Exercício 11 - Soma até digitar zero
 - [x] Exercício 12 - Contador de caracteres
-- [ ] Exercício 13 - Verificador de senha
+- [x] Exercício 13 - Verificador de senha
 - [ ] Exercício 14 - Maior elemento
 - [ ] Exercício 15 - Média de um vetor
 - [ ] Exercício 16 - Contagem de pares
