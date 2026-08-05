@@ -1,4 +1,4 @@
-# Fundamentos de Programação com C#
+# ✅ Fundamentos de Programação com C#
 
 Repositório com as soluções dos exercícios desenvolvidos durante o módulo **Fundamentos de Programação com C#** do Bootcamp.
 
@@ -31,7 +31,7 @@ Cada exercício está organizado em um projeto Console independente, facilitando
 - [x] Exercício 16 - Contagem de pares
 - [x] Exercício 17 - Ordem inversa
 - [x] Exercício 18 - Jogo da senha
-- [ ] Exercício 19 - Caixa eletrônico
+- [x] Exercício 19 - Caixa eletrônico
 
 ## Tecnologias
 

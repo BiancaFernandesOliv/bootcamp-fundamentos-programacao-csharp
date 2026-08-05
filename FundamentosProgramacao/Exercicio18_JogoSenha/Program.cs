@@ -4,7 +4,6 @@ int numeroSorteado = sorteador.Next(1, 101);
 
 int numero = 0;
 
-
 do {
     Console.Write("Digite um número: ");
     var numeroDigitado = Console.ReadLine();
