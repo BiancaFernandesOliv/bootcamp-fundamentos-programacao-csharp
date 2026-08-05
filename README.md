@@ -30,7 +30,7 @@ Cada exercício está organizado em um projeto Console independente, facilitando
 - [x] Exercício 15 - Média de um vetor
 - [x] Exercício 16 - Contagem de pares
 - [x] Exercício 17 - Ordem inversa
-- [ ] Exercício 18 - Jogo da senha
+- [x] Exercício 18 - Jogo da senha
 - [ ] Exercício 19 - Caixa eletrônico
 
 ## Tecnologias
