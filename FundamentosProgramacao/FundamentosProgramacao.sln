@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio14_MaiorElemento",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio15_MediaVetor", "Exercicio15_MediaVetor\Exercicio15_MediaVetor.csproj", "{1769DA0F-20D8-4481-8B90-BE17AA7C793A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio16_ContagemPares", "Exercicio16_ContagemPares\Exercicio16_ContagemPares.csproj", "{F5FCFD7F-8457-439A-B3E9-EEED45D68083}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{1769DA0F-20D8-4481-8B90-BE17AA7C793A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1769DA0F-20D8-4481-8B90-BE17AA7C793A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1769DA0F-20D8-4481-8B90-BE17AA7C793A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5FCFD7F-8457-439A-B3E9-EEED45D68083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FCFD7F-8457-439A-B3E9-EEED45D68083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FCFD7F-8457-439A-B3E9-EEED45D68083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FCFD7F-8457-439A-B3E9-EEED45D68083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
