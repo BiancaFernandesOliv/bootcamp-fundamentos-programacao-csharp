@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio12_ContadorCaracte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio13_VerificadorSenha", "Exercicio13_VerificadorSenha\Exercicio13_VerificadorSenha.csproj", "{1B4BA609-07EE-4283-92E8-0EA16A44C68A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio14_MaiorElemento", "Exercicio14_MaiorElemento\Exercicio14_MaiorElemento.csproj", "{61D7A396-B1F3-4FA3-AC35-C10B579217D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -92,6 +94,10 @@ Global
 		{1B4BA609-07EE-4283-92E8-0EA16A44C68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B4BA609-07EE-4283-92E8-0EA16A44C68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B4BA609-07EE-4283-92E8-0EA16A44C68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D7A396-B1F3-4FA3-AC35-C10B579217D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D7A396-B1F3-4FA3-AC35-C10B579217D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D7A396-B1F3-4FA3-AC35-C10B579217D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D7A396-B1F3-4FA3-AC35-C10B579217D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
