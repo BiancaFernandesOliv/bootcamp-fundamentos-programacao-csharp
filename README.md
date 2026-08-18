@@ -1,17 +1,17 @@
-# ✅ Fundamentos de Programação com C#
+# 💻 Fundamentos de Programação com C#
 
 Repositório com as soluções dos exercícios desenvolvidos durante o módulo **Fundamentos de Programação com C#** do Bootcamp.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Praticar a lógica de programação utilizando C#.
 - Consolidar os fundamentos da linguagem.
 
-## Estrutura
+## 📂 Estrutura
 
 Cada exercício está organizado em um projeto Console independente, facilitando o estudo e a evolução das soluções.
 
-## Exercícios
+## 📚 Exercícios
 
 - [x] Exercício 01 - Soma de dois números
 - [x] Exercício 02 - Antecessor e sucessor
